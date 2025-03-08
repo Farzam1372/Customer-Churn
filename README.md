@@ -1,4 +1,3 @@
-# Customer-Churn-Prediction (Coursera Challenge)
 # 🎯 Customer Churn Prediction - Data Science Coding Challenge
 
 Welcome to the **Customer Churn Prediction Challenge**, where we tackle one of the most industry-relevant machine learning problems—**predicting customer churn** for a **video streaming platform**.  
