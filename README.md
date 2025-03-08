@@ -64,13 +64,4 @@ We used **`GridSearchCV`** to optimize parameters like:
 ✔ **Trained the model on `train.csv`**  
 ✔ **Tested on `X_test` and calculated AUC Score**  
 ✔ **AUC Score Before Tuning: `0.7313`**  
-✔ **AUC Score After Tuning: `0.XXXX`** (Update based on results)
-
----
-
-## 🛠 How to Run the Model
-
-### **🔹 Install Dependencies**
-```bash
-pip install -r requirements.txt
-
+✔ **AUC Score After Tuning: `0.XXXX`** (Still in process)
